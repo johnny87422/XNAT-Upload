@@ -6,6 +6,6 @@
 
 能統一多個上傳計畫於一個資料夾底下陸續上傳
 
-主要程式:xnat_test.py，東西放在data/projects底下
+主要程式:xnat_test.py，直接執行就可以了，東西放在data/projects底下
 
 XNAT的網址與帳密修改，在config.ini裡面
