@@ -6,14 +6,6 @@ from todayClass import todaytime
 from config_read import config_data
 import time
 
-
-#print(date)
-'''
-url='https://dmxnat.nchc.org.tw'
-username='v1_yhyang'
-password='yhyang'
-'''
-
 '''
 url,username,password = config_data().read_config('config.ini')    
 interface = Interface(server=url,user=username,password=password)
